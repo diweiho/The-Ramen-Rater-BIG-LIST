@@ -1,4 +1,4 @@
-# The Ramen Rater BIG LIST
+# The Ramen Rater's BIG LIST
 
 An insight into one man's goal to eat and review the entirety of one of the world's most popular food - instant ramen!
 
